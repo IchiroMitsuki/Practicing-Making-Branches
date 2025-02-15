@@ -1,2 +1,2 @@
 # Practicing-Making-Branches
-Repository untuk latihan buat branch Github dari tutorial Dicoding. Tapi diubah buat conflict dari main
+Repository untuk latihan buat branch github dari tutorial Dicoding. Buat Conflict dari Development
